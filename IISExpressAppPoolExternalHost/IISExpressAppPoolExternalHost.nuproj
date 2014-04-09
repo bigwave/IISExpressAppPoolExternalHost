@@ -23,6 +23,9 @@
     <Content Include="install.ps1">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="ReadMe.txt">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="uninstall.ps1">
       <SubType>Content</SubType>
     </Content>
